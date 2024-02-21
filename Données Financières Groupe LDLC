@@ -1,0 +1,362 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Données Financières Groupe LDLC</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Lien vers une feuille de style pour une présentation moderne -->
+</head>
+<body>
+    <header>
+        <h1>Données Financières Groupe LDLC</h1>
+    </header>
+
+    <main>
+        <section id="accueil">
+            <h2>Accueil</h2>
+            <p>Bienvenue sur la page des données financières du Groupe LDLC.</p>
+        </section>
+
+        <section id="informations">
+            <h2>Informations</h2>
+            <p>Consultez ici les dernières données financières et les estimations des analystes pour le compte de résultat, la situation bilantielle et la valorisation de la société Groupe LDLC.</p>
+        </section>
+
+        <section id="analyses">
+            <h2>Analyses</h2>
+            <p>Obtenez des analyses approfondies sur les performances financières récentes de LDLC et son positionnement sur le marché.</p>
+            <table>
+  <thead>
+    <tr>
+      <th rowspan="2">Performance</th>
+      <th colspan="4">Années</th>
+    </tr>
+    <tr>
+      <th>2022</th>
+      <th>2021</th>
+      <th>2020</th>
+      <th>2018</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Chiffre d'affaires (€)</td>
+      <td>640M</td>
+      <td>658M</td>
+      <td>421M</td>
+      <td>447M</td>
+    </tr>
+    <tr>
+      <td>Marge brute (€)</td>
+      <td>135M</td>
+      <td>143M</td>
+      <td>421M</td>
+      <td>450M</td>
+    </tr>
+    <tr>
+      <td>EBITDA - EBE (€)</td>
+      <td>62,7M</td>
+      <td>74,1M</td>
+      <td>7,58M</td>
+      <td>7,19M</td>
+    </tr>
+    <tr>
+      <td>Résultat d'exploitation (€)</td>
+      <td>58M</td>
+      <td>67,6M</td>
+      <td>13,1M</td>
+      <td>5,8M</td>
+    </tr>
+    <tr>
+      <td>Résultat net (€)</td>
+      <td>38,1M</td>
+      <td>52,2M</td>
+      <td>244K</td>
+      <td>4,08M</td>
+    </tr>
+    <tr>
+      <td>Croissance</td>
+      <td>2022</td>
+      <td>2021</td>
+      <td>2020</td>
+      <td>2018</td>
+    </tr>
+    <tr>
+      <td>Taux de croissance du CA (%)</td>
+      <td>-2,6</td>
+      <td>56,3</td>
+      <td>-3,6</td>
+      <td>28,9</td>
+    </tr>
+    <tr>
+      <td>Taux de marge brute (%)</td>
+      <td>21,1</td>
+      <td>21,7</td>
+      <td>100</td>
+      <td>101</td>
+    </tr>
+    <tr>
+      <td>Taux de marge d'EBITDA (%)</td>
+      <td>9,8</td>
+      <td>11,3</td>
+      <td>1,8</td>
+      <td>1,6</td>
+    </tr>
+    <tr>
+      <td>Taux de marge opérationnelle (%)</td>
+      <td>9,1</td>
+      <td>10,3</td>
+      <td>3,1</td>
+      <td>1,3</td>
+    </tr>
+    <!-- Ajout des données manquantes -->
+    <tr>
+      <td>Gestion BFR</td>
+      <td>2022</td>
+      <td>2021</td>
+      <td>2020</td>
+      <td>2018</td>
+    </tr>
+    <tr>
+      <td>BFR (€)</td>
+      <td>55,5M</td>
+      <td>28,8M</td>
+      <td>22,3M</td>
+      <td>-43,7M</td>
+    </tr>
+    <tr>
+      <td>BFR exploitation (€)</td>
+      <td>44,7M</td>
+      <td>37,4M</td>
+      <td>29,2M</td>
+      <td>-47,2M</td>
+    </tr>
+    <tr>
+      <td>BFR hors exploitation (€)</td>
+      <td>10,9M</td>
+      <td>-8,51M</td>
+      <td>-6,96M</td>
+      <td>3,45M</td>
+    </tr>
+    <tr>
+      <td>BFR (j de CA)</td>
+      <td>31,7</td>
+      <td>16</td>
+      <td>19,4</td>
+      <td>-35,7</td>
+    </tr>
+    <tr>
+      <td>BFR exploitation (j de CA)</td>
+      <td>25,5</td>
+      <td>20,7</td>
+      <td>25,4</td>
+      <td>-38,5</td>
+    </tr>
+    <tr>
+      <td>BFR hors exploitation (j de CA)</td>
+      <td>6,2</td>
+      <td>-4,7</td>
+      <td>-6</td>
+      <td>2,8</td>
+    </tr>
+    <tr>
+      <td>Délai de paiement clients (j)</td>
+      <td>13,6</td>
+      <td>16,3</td>
+      <td>17,6</td>
+      <td>13,6</td>
+    </tr>
+    <tr>
+      <td>Délai de paiement fournisseurs (j)</td>
+      <td>51,4</td>
+      <td>62,2</td>
+      <td>-908</td>
+      <td>1,07K</td>
+    </tr>
+    <tr>
+      <td>Ratio des stocks / CA (j)</td>
+      <td>54,7</td>
+      <td>55,8</td>
+      <td>54,5</td>
+      <td>0</td>
+    </tr>
+    <!-- Fin des données manquantes -->
+    <tr>
+      <td>Autonomie financière</td>
+      <td>2022</td>
+      <td>2021</td>
+      <td>2020</td>
+      <td>2018</td>
+    </tr>
+    <tr>
+      <td>Capacité d'autofinancement (€)</td>
+      <td>42,8M</td>
+      <td>58,7M</td>
+      <td>-5,31M</td>
+      <td>5,48M</td>
+    </tr>
+    <tr>
+      <td>Capacité d'autofinancement / CA (%)</td>
+      <td>6,7</td>
+      <td>8,9</td>
+      <td>-1,3</td>
+      <td>1,2</td>
+    </tr>
+    <tr>
+      <td>Fonds de roulement net global (€)</td>
+      <td>93,3M</td>
+      <td>74,8M</td>
+      <td>43,5M</td>
+      <td>43,7M</td>
+    </tr>
+    <tr>
+      <td>Couverture du BFR</td>
+      <td>1,7</td>
+      <td>2,6</td>
+      <td>2</td>
+      <td>-1</td>
+    </tr>
+    <tr>
+      <td>Trésorerie (€)</td>
+      <td>37,7M</td>
+      <td>45,9M</td>
+      <td>16,5M</td>
+      <td>27,9M</td>
+    </tr>
+    <tr>
+      <td>Dettes financières (€)</td>
+      <td>27,2M</td>
+      <td>27,9M</td>
+      <td>42,6M</td>
+      <td>55,1M</td>
+    </tr>
+    <tr>
+      <td>Capacité de remboursement</td>
+      <td>-0,2</td>
+      <td>-0,3</td>
+      <td>-4,9</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>Ratio d'endettement (Gearing)</td>
+      <td>-0,1</td>
+      <td>-0,2</td>
+      <td>0,5</td>
+      <td>0,5</td>
+    </tr>
+    <tr>
+      <td>Autonomie financière (%)</td>
+      <td>46,7</td>
+      <td>37,4</td>
+      <td>28,4</td>
+      <td>28,5</td>
+    </tr>
+    <tr>
+      <td>Taux de levier (DFN/EBITDA)</td>
+      <td>-0,2</td>
+      <td>-0,2</td>
+      <td>3,4</td>
+      <td>3,8</td>
+    </tr>
+    <tr>
+      <td>Solvabilité</td>
+      <td>2022</td>
+      <td>2021</td>
+      <td>2020</td>
+      <td>2018</td>
+    </tr>
+    <tr>
+      <td>Couverture des dettes</td>
+      <td>-15,2</td>
+      <td>-8,8</td>
+      <td>4,5</td>
+      <td>2,6</td>
+    </tr>
+    <tr>
+      <td>Fonds propres (€)</td>
+      <td>125M</td>
+      <td>101M</td>
+      <td>51,7M</td>
+      <td>55,5M</td>
+    </tr>
+    <tr>
+      <td>Rentabilité</td>
+      <td>2022</td>
+      <td>2021</td>
+      <td>2020</td>
+      <td>2018</td>
+    </tr>
+    <tr>
+      <td>Marge nette (%)</td>
+      <td>5,9</td>
+      <td>7,9</td>
+      <td>0,1</td>
+      <td>0,9</td>
+    </tr>
+    <tr>
+      <td>Rentabilité sur fonds propres (%)</td>
+      <td>30,5</td>
+      <td>51,8</td>
+      <td>0,5</td>
+      <td>7,4</td>
+    </tr>
+    <tr>
+      <td>Rentabilité économique (%)</td>
+      <td>14,2</td>
+      <td>19,4</td>
+      <td>0,1</td>
+      <td>2,1</td>
+    </tr>
+    <tr>
+      <td>Valeur ajoutée (€)</td>
+      <td>107M</td>
+      <td>114M</td>
+      <td>442M</td>
+      <td>425M</td>
+    </tr>
+    <tr>
+      <td>Valeur ajoutée / CA (%)</td>
+      <td>16,8</td>
+      <td>17,4</td>
+      <td>105</td>
+      <td>95,1</td>
+    </tr>
+    <tr>
+      <td>Structure d'activité</td>
+      <td>2022</td>
+      <td>2021</td>
+      <td>2020</td>
+      <td>2018</td>
+    </tr>
+    <tr>
+      <td>Salaires et charges sociales (€)</td>
+      <td>38,8M</td>
+      <td>36,2M</td>
+      <td>-31,6M</td>
+      <td>25M</td>
+    </tr>
+    <tr>
+      <td>Salaires / CA (%)</td>
+      <td>6,1</td>
+      <td>5,5</td>
+      <td>-7,5</td>
+      <td>5,6</td>
+    </tr>
+    <tr>
+      <td>Impôts et taxes (€)</td>
+      <td>2,95M</td>
+      <td>3,05M</td>
+      <td>-2,14M</td>
+      <td>2,16M</td>
+    </tr>
+  </tbody>
+</table>
+
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Données Financières Groupe LDLC. Tous droits réservés.</p>
+    </footer>
+</body>
+</html>
